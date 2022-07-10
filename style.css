@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input {
+    padding: 12px 24px;
+}
+
+.innerContent{
+
+
+    display: flex;
+    gap:182px;
+    padding: 6px;
+    align-items: center;
+
+}
+
+.item{
+    width: 100%;
+    max-width: 400px;
+  
+}
+
+button{
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 5px;
+
+}
+
